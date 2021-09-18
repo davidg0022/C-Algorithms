@@ -1,6 +1,7 @@
 # C++ Algorithms
 
-Here you can find basic/advanced C++ algorithm feel free to learn or send me some ideas.
+Here you can find basic/advanced C++ algorithm.
+Feel free to learn or send me some ideas.
 
 ## Description
 
