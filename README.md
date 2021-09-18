@@ -1,6 +1,6 @@
-# Project Title
+# C++ Algorithms
 
-Simple overview of use/purpose.
+Here you can find basic/advanced C++ algorithm feel free to learn or send me some ideas.
 
 ## Description
 
